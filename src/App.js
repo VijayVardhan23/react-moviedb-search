@@ -27,7 +27,7 @@ class App extends Component {
   }
 
 
-    //
+    //fetches the data from api
   performSearch(e){
      e.preventDefault();
      this.onChanged(e)
